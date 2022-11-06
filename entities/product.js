@@ -21,3 +21,7 @@ class Product {
 //   category: 'food',
 //   price: 2000,
 // });
+
+module.exports = {
+  Product, // Product:Product,
+};
